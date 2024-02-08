@@ -36,17 +36,17 @@ Here is the main page of the software, where you can access its core features an
 ![Screenshot (4)](https://github.com/rezapourian/studbudget/assets/84806693/3eb12ca3-f0fe-4b0f-abf0-7a50f8965378)
 
 # How to use?
-1. Download and Install Visual Studio: If you haven't already, download and install Visual Studio from the official Microsoft website. Ensure you have the necessary .NET Framework version installed as well.
+1. **Download and Install Visual Studio**: If you haven't already, download and install Visual Studio from the official Microsoft website. Ensure you have the necessary .NET Framework version installed as well.
 
-2. Clone or Download the Repository: Clone this GitHub repository to your local machine using Git, or simply download the ZIP file and extract it to a location of your choice.
+2. **Clone or Download the Repository**: Clone this GitHub repository to your local machine using Git, or simply download the ZIP file and extract it to a location of your choice.
 
 3. **Open the Project in Visual Studio**: Launch Visual Studio and open the project solution file (.sln) from the location where you cloned or extracted the repository.
 
-4. Build the Solution: Build the solution in Visual Studio by selecting Build > Build Solution from the menu. This will compile the code and prepare the software for execution.
+4. **Build the Solution**: Build the solution in Visual Studio by selecting Build > Build Solution from the menu. This will compile the code and prepare the software for execution.
 
-5. Run the Software: After successfully building the solution, you can run the software by pressing the 'Start' button in Visual Studio or by pressing F5. Follow any on-screen prompts or instructions provided by the software.
+5. **Run the Software**: After successfully building the solution, you can run the software by pressing the 'Start' button in Visual Studio or by pressing F5. Follow any on-screen prompts or instructions provided by the software.
 
-6. Explore and Customize: Once the software is running, explore its features and functionalities.
+6. **Explore and Customize**: Once the software is running, explore its features and functionalities.
 
 # Team Members
 Elias Adibi
