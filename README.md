@@ -1,4 +1,4 @@
-# studbudget
+# Studbudget
 In today’s dynamic financial landscape, individuals and businesses need a robust solution
 to take charge of their financial management, savings, and investments. Our project is
 driven by the vision of developing a cutting-edge Windows-based software using the power
