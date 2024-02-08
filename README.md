@@ -26,9 +26,9 @@ their financial data is protected by robust security measures
 # Requirements
 To utilize this C# software effectively, ensure that you have the following:
 
-1. Visual Studio: This project is developed using Visual Studio, a powerful integrated development environment (IDE) for C# and other programming languages. You can download Visual Studio from the official Microsoft website.
+1. **Visual Studio**: This project is developed using Visual Studio, a powerful integrated development environment (IDE) for C# and other programming languages. You can download Visual Studio from the official Microsoft website.
 
-2. .NET Framework: Make sure you have the required .NET Framework version installed on your system. This software is compatible with .NET Framework [insert version here] or higher.
+2. **.NET Framework**: Make sure you have the required .NET Framework version installed on your system. This software is compatible with .NET Framework [insert version here] or higher.
    
 
 # Sudbudget Software
@@ -40,7 +40,7 @@ Here is the main page of the software, where you can access its core features an
 
 2. Clone or Download the Repository: Clone this GitHub repository to your local machine using Git, or simply download the ZIP file and extract it to a location of your choice.
 
-3. Open the Project in Visual Studio: Launch Visual Studio and open the project solution file (.sln) from the location where you cloned or extracted the repository.
+3. **Open the Project in Visual Studio**: Launch Visual Studio and open the project solution file (.sln) from the location where you cloned or extracted the repository.
 
 4. Build the Solution: Build the solution in Visual Studio by selecting Build > Build Solution from the menu. This will compile the code and prepare the software for execution.
 
