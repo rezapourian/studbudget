@@ -49,7 +49,7 @@ Here is the main page of the software, where you can access its core features an
 6. **Explore and Customize**: Once the software is running, explore its features and functionalities.
 
 # Team Members
-Elias Adibi
-Shirin Lari
-Mahya Amirkhani
+Elias Adibi,
+Shirin Lari,
+Mahya Amirkhani, and
 Mohammad Rezapourianghahfarokhi
