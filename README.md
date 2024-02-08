@@ -24,13 +24,11 @@ be able to set, track, and achieve savings and investment goals, and they can tr
 their financial data is protected by robust security measures
 
 
-Team Members:
+#Team Members:
 Elias Adibi
-![unnamed (3)](https://github.com/rezapourian/studbudget/assets/84806693/b55d71ce-e8cc-4dca-b856-0f6783bafb57|width=100)
 Shirin Lari
-![unnamed (4)](https://github.com/rezapourian/studbudget/assets/84806693/3435b0fb-bc7f-4739-85a0-7d577b6f0616|width=100)
 Mahya Amirkhani
-![unnamed (2)](https://github.com/rezapourian/studbudget/assets/84806693/53bfaca3-24df-4212-910f-594ca96dc8e7|width=100)
 Mohammad Rezapourianghahfarokhi
-![unnamed (1)](https://github.com/rezapourian/studbudget/assets/84806693/4a903df8-1e02-46c3-923a-5e48a2889a93|width=100)
 
+#Sudbudget Software
+![Screenshot (4)](https://github.com/rezapourian/studbudget/assets/84806693/3eb12ca3-f0fe-4b0f-abf0-7a50f8965378)
