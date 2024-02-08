@@ -24,11 +24,11 @@ be able to set, track, and achieve savings and investment goals, and they can tr
 their financial data is protected by robust security measures
 
 
-#Team Members:
+# Team Members:
 Elias Adibi
 Shirin Lari
 Mahya Amirkhani
 Mohammad Rezapourianghahfarokhi
 
-#Sudbudget Software
+# Sudbudget Software
 ![Screenshot (4)](https://github.com/rezapourian/studbudget/assets/84806693/3eb12ca3-f0fe-4b0f-abf0-7a50f8965378)
