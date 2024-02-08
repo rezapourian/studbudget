@@ -28,7 +28,7 @@ To utilize this C# software effectively, ensure that you have the following:
 
 1. **Visual Studio**: This project is developed using Visual Studio, a powerful integrated development environment (IDE) for C# and other programming languages. You can download Visual Studio from the official Microsoft website.
 
-2. **.NET Framework**: Make sure you have the required .NET Framework version installed on your system. This software is compatible with .NET Framework [insert version here] or higher.
+2. **.NET Framework**: Make sure you have the required .NET Framework version installed on your system. This software is compatible with .NET Framework 4.8 or higher.
    
 
 # Sudbudget Software
